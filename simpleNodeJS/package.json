@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-js",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manbir Jaspal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
